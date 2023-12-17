@@ -1,5 +1,7 @@
- entrega 1 sage
- En esta entrega he hecho estos cálculos matemáticos con sage en cocalc.
+Entrega 1 sage
+ 
+ 
+En esta entrega he hecho estos cálculos matemáticos con sage en cocalc.
  
 Divide 28 por 2 elevado a la quinta potencia como número racional y obtén después su aproximación decimal
 
